@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Ghi đè CSS của Ant Design  */
+.ant-table .ant-table-title {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

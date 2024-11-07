@@ -1,7 +1,7 @@
-import React from 'react'
+'use client'
 
 const AdminPage = () => {
-  return <div>AdminPage</div>
+  return <div>Admin</div>
 }
 
 export default AdminPage
